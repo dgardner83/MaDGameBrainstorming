@@ -1,0 +1,5 @@
+for the game engine we are currently primarly considering Godot, it is free and Opensource. 
+	Howerever in the future we may wnt to consider other engines becouse they are better supported or more performant
+		for example Unity or Unreal.
+		
+I(Mike) think that a 2d game would be the best choice for our first game, it will be much easier to code and create art and other assets for.
